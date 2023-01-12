@@ -3,6 +3,9 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/atomic_age</item>
         <item>@font/chewy</item>
+        <item>@font/concert_one</item>
+        <item>@font/fascinate</item>
         <item>@font/fascinate_inline</item>
+        <item>@font/press_start_2p</item>
     </array>
 </resources>
